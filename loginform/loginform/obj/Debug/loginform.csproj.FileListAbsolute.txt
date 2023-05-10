@@ -1,0 +1,11 @@
+C:\Users\Kakon Soft\Desktop\loginform\loginform\bin\Debug\loginform.exe.config
+C:\Users\Kakon Soft\Desktop\loginform\loginform\bin\Debug\loginform.exe
+C:\Users\Kakon Soft\Desktop\loginform\loginform\bin\Debug\loginform.pdb
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.csproj.AssemblyReference.cache
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.Form1.resources
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.csproj.GenerateResource.cache
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.csproj.CoreCompileInputs.cache
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.exe
+C:\Users\Kakon Soft\Desktop\loginform\loginform\obj\Debug\loginform.pdb
